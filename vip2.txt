@@ -1,0 +1,77 @@
+
+|____vip
+|    |____g
+|    |____init.c
+|____a.out
+|____tree.c
+|____-d
+|____mainprac.c
+|____project
+|____file.c
+|____vip2.txt
+|____vip.txt
+|____main.c
+|____report.txt
+|____tree.h
+|____createtree.c
+|____prac.c
+|____A
+|    |____file.o
+|    |____Screenshot-27.png
+|    |____init.c
+|    |____Screenshot-17.png
+|    |____Screenshot-11.png
+|    |____Screenshot-4.png
+|    |____Screenshot-28.png
+|    |____Screenshot-1.png
+|    |____main.o
+|    |____-d
+|    |____printtree.o
+|    |____project
+|    |____storage.jpg
+|    |____Screenshot-15.png
+|    |____Screenshot-29.png
+|    |____file.c
+|    |____README.md
+|    |____vip1
+|    |    |____3
+|    |    |____2
+|    |    |    |____Makefile
+|    |    |____1
+|    |    |____Makefile
+|    |____Screenshot-23.png
+|    |____node.o
+|    |____createtree.o
+|    |____Screenshot-12.png
+|    |____Screenshot-18.png
+|    |____Screenshot-9.png
+|    |____vip.txt
+|    |____try
+|    |____main.c
+|    |____Screenshot-30.png
+|    |____Screenshot-16.png
+|    |____Screenshot-22.png
+|    |____Screenshot-13.png
+|    |____Screenshot-3.png
+|    |____Screenshot-10.png
+|    |____init.h
+|    |____Screenshot-20.png
+|    |____printtree.c
+|    |____level
+|    |____Screenshot-26.png
+|    |____Screenshot-2.png
+|    |____Screenshot-24.png
+|    |____datastructure.jpg
+|    |____Screenshot-6.png
+|    |____Screenshot-5.png
+|    |____Screenshot-21.png
+|    |____createtree.c
+|    |____Screenshot-19.png
+|    |____Screenshot.png
+|    |____Screenshot-14.png
+|    |____Screenshot-8.png
+|    |____init.o
+|    |____node.c
+|    |____Makefile
+|    |____Screenshot-7.png
+|____Makefile

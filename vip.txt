@@ -1,0 +1,78 @@
+[01;34m.[00m
+├── [01;34mA[00m
+│   ├── createtree.c
+│   ├── createtree.o
+│   ├── -d
+│   ├── [01;35mdatastructure.jpg[00m
+│   ├── file.c
+│   ├── file.o
+│   ├── init.c
+│   ├── init.h
+│   ├── init.o
+│   ├── level
+│   ├── main.c
+│   ├── main.o
+│   ├── Makefile
+│   ├── node.c
+│   ├── node.o
+│   ├── printtree.c
+│   ├── printtree.o
+│   ├── [01;32mproject[00m
+│   ├── README.md
+│   ├── [01;35mScreenshot-10.png[00m
+│   ├── [01;35mScreenshot-11.png[00m
+│   ├── [01;35mScreenshot-12.png[00m
+│   ├── [01;35mScreenshot-13.png[00m
+│   ├── [01;35mScreenshot-14.png[00m
+│   ├── [01;35mScreenshot-15.png[00m
+│   ├── [01;35mScreenshot-16.png[00m
+│   ├── [01;35mScreenshot-17.png[00m
+│   ├── [01;35mScreenshot-18.png[00m
+│   ├── [01;35mScreenshot-19.png[00m
+│   ├── [01;35mScreenshot-1.png[00m
+│   ├── [01;35mScreenshot-20.png[00m
+│   ├── [01;35mScreenshot-21.png[00m
+│   ├── [01;35mScreenshot-22.png[00m
+│   ├── [01;35mScreenshot-23.png[00m
+│   ├── [01;35mScreenshot-24.png[00m
+│   ├── [01;35mScreenshot-26.png[00m
+│   ├── [01;35mScreenshot-27.png[00m
+│   ├── [01;35mScreenshot-28.png[00m
+│   ├── [01;35mScreenshot-29.png[00m
+│   ├── [01;35mScreenshot-2.png[00m
+│   ├── [01;35mScreenshot-30.png[00m
+│   ├── [01;35mScreenshot-3.png[00m
+│   ├── [01;35mScreenshot-4.png[00m
+│   ├── [01;35mScreenshot-5.png[00m
+│   ├── [01;35mScreenshot-6.png[00m
+│   ├── [01;35mScreenshot-7.png[00m
+│   ├── [01;35mScreenshot-8.png[00m
+│   ├── [01;35mScreenshot-9.png[00m
+│   ├── [01;35mScreenshot.png[00m
+│   ├── [01;35mstorage.jpg[00m
+│   ├── [01;32mtry[00m
+│   ├── [01;34mvip1[00m
+│   │   ├── [01;34m1[00m
+│   │   ├── [01;34m2[00m
+│   │   │   └── Makefile
+│   │   ├── [01;34m3[00m
+│   │   └── Makefile
+│   └── vip.txt
+├── [01;32ma.out[00m
+├── createtree.c
+├── -d
+├── file.c
+├── main.c
+├── mainprac.c
+├── Makefile
+├── prac.c
+├── [01;32mproject[00m
+├── report.txt
+├── tree.c
+├── tree.h
+├── [01;34mvip[00m
+│   ├── [01;34m1[00m
+│   └── [01;34m2[00m
+└── vip.txt
+
+8 directories, 67 files

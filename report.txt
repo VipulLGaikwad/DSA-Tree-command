@@ -1,0 +1,7 @@
+Implemented till now
+
+1.Basic tree command with no options
+
+2. --noreport sub-command
+
+3. --help sub-command
